@@ -1,4 +1,6 @@
 # Patient Disease Burden & Mortality Trends: A Hospital Data Analysis (2009–2018)
+
+![](10130.jpg)
 --- 
 ## Project Overview
 
