@@ -59,12 +59,40 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 | Total Deaths | 1,153 |
 | Overall Death Rate | 51.45% |
 
+---
+
+## Key Questions Answered
+
+### WHICH STATES HAVE THE HIGHEST INCIDENCE OF MALARIA AND CHOLERA?
+
+![](question1.PNG)
+
+- Kebbi recorded the highest number of reported cases (18 cases) of Cholera by state.
+
+- Kaduna and Niger had the next highest cases of cholera reported (17 cases each).
+
+  ### WHICH STATE HAS THE HIGHEST DEATH RATE DUE TO CHOLERA?
+
+![](question2.PNG)
+
+- Abia has the highest cholera mortality rate at 75%, indicating a severe fatality burden in that state.
+  
+- Osun and Zamfara share the second-highest mortality rate at 60%, meaning:
+  6 out of every 10 cholera patients did not survive.
+  
+- This indicates that high cholera fatality is not isolated to one state, but appears across multiple regions.
+
+
+
+
 
 
 ---
 
 ![](healthdata.PNG)
+
 ## Key Insights & Findings
+
 The overall death rate remains high at 51.45%.
 
 Abia State has the highest cholera mortality rate (75%).
