@@ -62,6 +62,8 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 
 
 ---
+
+![](healthdata.PNG)
 ## Key Insights & Findings
 The overall death rate remains high at 51.45%.
 
