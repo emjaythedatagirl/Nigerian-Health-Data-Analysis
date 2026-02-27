@@ -105,9 +105,26 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 - Ebola remained constant at 63%.
 
 
+  ### WHICH YEAR DO WE HAVE THE HIGHEST INCIDENCE OF MENINGITIS?
+
+  ![](question5.PNG)
+
+- Cases dropped sharply from 19 (2009) to 10 (2010)—the lowest recorded point—before steadily increasing through 2015.
+
+- Meningitis reached its highest level in 2015 (28 cases), representing the peak year in the 10-year period.
+
+- Cases declined gradually after 2015 but remained above the 2010 low, indicating ongoing disease presence.
 
 
+### WHICH YEAR DO WE HAVE THE HIGHEST INCIDENCE OF MENINGITIS?
 
+![](question6.PNG)
+
+- Young adults recorded the highest number of cases (60 cases), indicating greater exposure or vulnerability within this active age group.
+  
+- Adults (56) and Teenagers (54) show similar case levels, suggesting diarrhoea affects the working-age population significantly.
+
+- Seniors recorded the lowest number of cases (11 cases), possibly due to lower exposure levels or smaller population representation.
 
 
 ---
@@ -164,4 +181,6 @@ The insights support data-driven public health strategies aimed at reducing mort
 
 ---
 
+**Download Full Project Files:**  
+https://drive.google.com/drive/folders/1oOI9bJFMWBegF2LZ_2zBAkatIm5FONAN?usp=drive_link
 
