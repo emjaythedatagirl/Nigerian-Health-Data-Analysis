@@ -43,7 +43,7 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 - Total Cases
 
 ---
-  ## Tools & Techniques
+## Tools & Techniques
 
 - Microsoft Power BI
 - Power query(data cleaning) 
@@ -71,7 +71,7 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 
 - Kaduna and Niger had the next highest cases of cholera reported (17 cases each).
 
-  ### WHICH STATE HAS THE HIGHEST DEATH RATE DUE TO CHOLERA?
+### WHICH STATE HAS THE HIGHEST DEATH RATE DUE TO CHOLERA?
 
 ![](question2.PNG)
 
@@ -105,7 +105,7 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 - Ebola remained constant at 63%.
 
 
-  ### WHICH YEAR DO WE HAVE THE HIGHEST INCIDENCE OF MENINGITIS?
+### WHICH YEAR DO WE HAVE THE HIGHEST INCIDENCE OF MENINGITIS?
 
   ![](question5.PNG)
 
