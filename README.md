@@ -83,6 +83,29 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 - This indicates that high cholera fatality is not isolated to one state, but appears across multiple regions.
 
 
+ ### IN WHICH GROUP DO WE HAVE THE HIGHEST DISEASE OCCURRENCE, RURAL OR URBAN?
+
+ ![](question3.PNG)
+
+ - Urban settlements recorded slightly more disease cases than rural settlements.
+
+
+### WHICH DISEASE HAD THE HIGHEST DEATH RATE IN 2010 AND 2018?
+
+![](question4.PNG)
+
+- Measles increased significantly from 50% (2010) to 67% (2018).
+
+- Meningitis rose sharply from 30% to 57%.
+
+- Yellow fever and viral hemorrhagic fever also increased.
+
+- Malaria and Marburg virus death rates decreased.
+
+- Ebola remained constant at 63%.
+
+
+
 
 
 
