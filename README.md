@@ -116,7 +116,7 @@ The dashboard enables interactive exploration across states, diseases, settlemen
 - Cases declined gradually after 2015 but remained above the 2010 low, indicating ongoing disease presence.
 
 
-### WHICH YEAR DO WE HAVE THE HIGHEST INCIDENCE OF MENINGITIS?
+### WHICH HAD THE MOST INCIDENCE OF DIARRHOEA CASES?
 
 ![](question6.PNG)
 
